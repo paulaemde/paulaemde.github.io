@@ -1,3 +1,17 @@
+# Welcome to your own domain, Paula
+
+This is a starter page. It is yours to make whatever you want of it.
+There is one email set up for this domain, [paula@paulaemde.com](mailto:paula@paulaemde.com), which fowards to your paulaemde@yahoo.com email.
+
+> All the info below shows you the basics of what this template looks like for various types of text, links, etc.
+> 
+> You can also switch or modify your template.
+> 
+> Have fun, my love!
+> 
+> Love,
+> Erick
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/paulaemde/paulaemde.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
